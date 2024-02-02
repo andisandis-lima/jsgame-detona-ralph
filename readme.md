@@ -15,6 +15,7 @@ Para adcionar um Listener quando se click o mouse em um lugar em especifico se u
 
 addEventListener("mousedown" ...arrow function
 
+---
 
 ### Tecnologias Utilizadas
 
@@ -30,5 +31,5 @@ addEventListener("mousedown" ...arrow function
 
 Tente clicar em cima do inimigo o maior número de vezes possíveis para ganhar pontos
 
----
+
 
