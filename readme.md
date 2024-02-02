@@ -1,19 +1,19 @@
-## Awesome JSGame Detona Ralph
+# JSGame Detona Ralph
 
 Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript. Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
-## O Que aprendi de novo com esse Projeto - JavaScript
+### O Que aprendi de novo com esse Projeto - JavaScript
 
-Estrutura do Projeto 
+#### Estrutura do Projeto 
 
-Uma const State dividida em 3 partes: View, Values e Actios.
-1. View - Para declaraçoes onde se interage com elementos visuais;
-2. Values - Para declaração de valores como timer jogo;
+Uma const State dividida em 3 partes: View, Values e Actions.
+1. View - Para declarações onde se interage com elementos visuais;
+2. Values - Para valores como o timer do jogo;
 3. Actions - Lugar para as funções
 
-Para adcionar um Listener quando se click o mouse em um lugar em especifico se usa:
+#### Listener  click do mouse:
 
-addEventListener("mousedown" ...arrow function
+addEventListener("mousedown"( )=>{ })
 
 ---
 
